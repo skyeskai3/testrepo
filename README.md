@@ -1,4 +1,4 @@
 # testrepo
 
-##EDITING THE FILE
+## EDITING THE FILE
 It's a markdown file in this repository
